@@ -1,0 +1,12 @@
+{
+  "name": "claudespeak",
+  "owner": { "name": "albertshiney" },
+  "description": "claudespeak: Claude Code replies read aloud with Fish Audio",
+  "plugins": [
+    {
+      "name": "claudespeak",
+      "source": "./",
+      "description": "Reads a short summary of each Claude Code reply aloud with Fish Audio"
+    }
+  ]
+}
